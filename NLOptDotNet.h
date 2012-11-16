@@ -14,6 +14,8 @@ using namespace std;	//old-school
 #include "nlopt.hpp"	//to be wrapped
 using namespace nlopt;
 
+#pragma comment(lib, "libnlopt-0.lib")
+
 namespace NLOptDotNet {
 	
 	//-------------------------------------------------------------
